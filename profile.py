@@ -17,4 +17,4 @@ node.addService(rspec.Execute(shell="/bin/sh",
 node.addService(rspec.Execute(shell="/bin/sh",
                                      command = 'sudo systemct1 status apache2'))
 #Print the RSpec to the enclosing page.
-portal.context.printRequestRspec()
+portal.context.printRequestRSpec()
