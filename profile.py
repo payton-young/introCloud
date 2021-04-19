@@ -1,5 +1,5 @@
 import geni.portal as portal
-import geni.rspec.pg as rspec
+import geni.rspec.pg as pg
 import geni.rspec.igext as IG
 
 #Create a Request object to start building the RSpec.
